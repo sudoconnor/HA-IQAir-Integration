@@ -18,6 +18,11 @@ NOTES:
 - **Select Entities**:
     - Choose the Smart Mode Profile (e.g., Quiet, Balanced, Max).
     - Adjust the Display Brightness level.
+- **Sensor Entities**:
+    - PM2.5 and AQI readings from the purifier.
+    - Particle count and clean-air-delivery percentage.
+    - Diagnostic values such as cumulative air volume, fan runtime, Wi-Fi signal, and last seen time.
+    - Filter health percentage sensors when the API reports filter details.
 
 ## Installation
 
